@@ -1,0 +1,79 @@
+html {
+  font-size: 90.5%;
+}
+body {
+  background-color: #88b3fd;
+  border-radius: 10px;
+  font-family: "Raleway", sans-serif;
+}
+
+h2 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.textLeft {
+  text-align: left;
+  text-transform: uppercase;
+
+}
+
+.loadingDiv {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.card {
+  width: 450px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(143, 89, 89);
+  margin: auto;
+}
+
+.image {
+  min-width: 155px;
+  margin-right: 20px;
+}
+
+.stats {
+  background: #f2f5f8 !important;
+  color: #000 !important;
+  text-transform: uppercase;
+}
+
+.articles {
+  font-size: 10px;
+  color: #0e3c8b;
+}
+
+.number1 {
+  font-weight: 500;
+}
+
+.followers {
+  font-size: 10px;
+  color: #71a0f2;
+}
+
+.number2 {
+  font-weight: 500;
+}
+
+.rating {
+  font-size: 10px;
+  color:  #0e3c8b;
+}
+.navbar{
+  background-color:  #598ee8;
+}
+.navbar-brand{
+color: #000;
+}
+.navbar-brand:hover{
+  background-color: #00040a;
+}
+ .nav-item :hover{
+  background-color: #00040a;
+}
